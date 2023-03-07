@@ -1,3 +1,5 @@
+//abcd
+
 //2-1. arr1.cpp 실습예제 2.1
 #include <stdio.h>
 #include <stdlib.h>
