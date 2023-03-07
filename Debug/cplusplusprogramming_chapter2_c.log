@@ -1,0 +1,44 @@
+﻿  2-11.ragged.cpp
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(20,1): error C2059: 구문 오류: '<<'
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(23,1): error C2059: 구문 오류: '=='
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(26,1): error C2059: 구문 오류: '>>'
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(57,1): error C2059: 구문 오류: '<<'
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(65,14): error C2065: 'rt': 선언되지 않은 식별자입니다.
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(66,7): error C2065: 'rt': 선언되지 않은 식별자입니다.
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(69,1): error C2059: 구문 오류: '>>'
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(81,1): error C2059: 구문 오류: '<<'
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(82,20): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(82,20): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(121,1): error C2059: 구문 오류: '>>'
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(123,19): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(123,30): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(123,30): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(123,45): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(123,45): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(123,37): error C2086: 'int rowIndex': 재정의
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(123): message : 'rowIndex' 선언을 참조하십시오.
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(123,47): error C2059: 구문 오류: ')'
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(124,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(124,2): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(127,1): error C2059: 구문 오류: '<<'
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(129,1): error C2059: 구문 오류: '=='
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(133,1): error C2059: 구문 오류: '}'
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(133,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(134,21): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\user\Documents\GitHub\test\2-11.ragged.cpp(134,21): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  2-12.char2.cpp
+C:\Users\user\Documents\GitHub\test\2-12.char2.cpp(19,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\user\Documents\GitHub\test\2-12.char2.cpp(31,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\user\Documents\GitHub\test\2-12.char2.cpp(38,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\user\Documents\GitHub\test\2-12.char2.cpp(43,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\user\Documents\GitHub\test\2-12.char2.cpp(48,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  2장-6.swap2.cpp
+  Source1.cpp
+C:\Users\user\Documents\GitHub\test\Source1.cpp(7,2): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\user\Documents\GitHub\test\Source1.cpp(7,28): error C2065: 'endl': 선언되지 않은 식별자입니다.
+  코드를 생성하고 있습니다...
